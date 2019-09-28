@@ -58,7 +58,7 @@ export function checkTwoWireStatus(Id){
     // }
     // debugger
     const url = apiConfig.getServiceUrl('checktwowire').replace(':Id', Id);
-    return axiosService.xhr({url, method: 'G', key:key});
+    return axiosService.xhr({url, method: 'G'});
     // return axios.get(checktwowire + '/' + Id +'/checktwowirestatus') 
     // .then((res) => res)
     // .catch((error) => error.response);
