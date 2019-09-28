@@ -1,0 +1,274 @@
+[
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "7451",
+    "level": "CRITICAL",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Steve Rogers",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "steve.rogers@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 111,
+    "status": "Assigned",
+    "assignedTo": "Steve Rogers",
+    "schedule": {
+      "id": 3,
+      "title": "#111",
+      "start": "2018-04-27 12:00:00",
+      "end": "2018-04-27 14:30:00",
+      "resourceId": "steve.rogers@test.com",
+      "bgColor": "#2F696E"
+    }
+  },
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "7551",
+    "level": "MAJOR",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Bucky Barnes",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "bucky.barnes@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 112,
+    "status": "Assigned",
+    "assignedTo": "Bucky Barnes",
+    "schedule": {
+      "id": 4,
+      "title": "#112",
+      "start": "2018-04-27 13:00:00",
+      "end": "2018-04-27 14:30:00",
+      "resourceId": "bucky.barnes@test.com",
+      "bgColor": "#2F696E"
+    }
+  },
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "7651",
+    "level": "MAJOR",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Scott Lang",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "scott.lang@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 113,
+    "status": "Assigned",
+    "assignedTo": "Scott Lang",
+    "schedule": {
+      "id": 5,
+      "title": "#113",
+      "start": "2018-04-27 13:00:00",
+      "end": "2018-04-27 14:30:00",
+      "resourceId": "scott.lang@test.com",
+      "bgColor": "#2F696E"
+    }
+  },
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "8651",
+    "level": "CRITICAL",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Steve Rogers",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "steve.rogers@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 114,
+    "status": "Assigned",
+    "assignedTo": "Steve Rogers",
+    "schedule": {
+      "id": 6,
+      "title": "#114",
+      "start": "2018-04-27 09:00:00",
+      "end": "2018-04-27 10:30:00",
+      "resourceId": "steve.rogers@test.com",
+      "bgColor": "#2F696E"
+    }
+  },
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "9651",
+    "level": "CRITICAL",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Scott Lang",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "scott.lang@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 115,
+    "status": "Assigned",
+    "assignedTo": "Scott Lang",
+    "schedule": {
+      "id": 7,
+      "title": "#115",
+      "start": "2018-04-27 09:30:00",
+      "end": "2018-04-27 13:00:00",
+      "resourceId": "scott.lang@test.com",
+      "bgColor": "#2F696E"
+    }
+  },
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "7151",
+    "level": "MAJOR",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Bucky Barnes",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "bucky.barnes@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 116,
+    "status": "Assigned",
+    "assignedTo": "Bucky Barnes",
+    "schedule": {
+      "id": 8,
+      "title": "#116",
+      "start": "2018-04-27 09:00:00",
+      "end": "2018-04-27 12:30:00",
+      "resourceId": "bucky.barnes@test.com",
+      "bgColor": "#2F696E"
+    }
+  },
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "7251",
+    "level": "CRITICAL",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Steve Rogers",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "steve.rogers@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 117,
+    "status": "Assigned",
+    "assignedTo": "Steve Rogers",
+    "schedule": {
+      "id": 9,
+      "title": "#117",
+      "start": "2018-04-27 15:00:00",
+      "end": "2018-04-27 16:30:00",
+      "resourceId": "steve.rogers@test.com",
+      "bgColor": "#2F696E"
+    }
+  },
+  {
+    "stationName": {
+      "site": "Site-2-Mylo",
+      "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+      "lat": 48.6352785,
+      "lng": -99.6187555,
+      "status": "normal"
+    },
+    "stationAddress": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "errorCode": "7351",
+    "level": "MAJOR",
+    "pumpDetail": "651",
+    "workOrderDesc": "Work order description comes here!",
+    "title": "652",
+    "technicianName": {
+      "technicianName": "Bucky Barnes",
+      "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+      "technicianEmail": "bucky.barnes@test.com",
+      "technicianNumber": "666 666 6666"
+    },
+    "technicianAddress": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "technicianContact": "666 666 6666",
+    "id": 118,
+    "status": "Assigned",
+    "assignedTo": "Bucky Barnes",
+    "schedule": {
+      "id": 10,
+      "title": "#118",
+      "start": "2018-04-27 15:30:00",
+      "end": "2018-04-27 17:30:00",
+      "resourceId": "bucky.barnes@test.com",
+      "bgColor": "#2F696E"
+    }
+  }
+]

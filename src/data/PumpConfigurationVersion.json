@@ -1,0 +1,13 @@
+{
+    "PumpModel": "E500 PUMP LON NODE VERSION",
+    "ApplicationSoftwareVersion": "P03040 (03.0.40P)",
+    "ApplicationSoftwareDate": "07-28-2014",
+    "ApplicationHashCode": "1D2625AA6278753B4D95A901EA8D6C8AC302F788",
+    "ApplicationSoftwareCRC": "A9CB",
+    "MIPVersion": "0414 (04.14)",
+    "DoorNodeA": "02057 (02.0.57)",
+    "DoorNodeB": "02057 (02.0.57)",
+    "DoorNodeHostA": "",
+    "DoorNodeHostB": "",
+    "PumpBootVersion": "10305 (V10.3.05)"
+}

@@ -1,0 +1,308 @@
+[
+	{
+		"pump_number": ["1/2"],
+		"device_id": "352753090531706",
+		"Error_Code": [
+			{
+				"code": "EC5056",
+				"report_time": "06-14-2016",
+				"level": "Critical",
+				"description": "Security switch is open",
+				"status": "Live"
+			},
+			{
+				"code": "EC5056",
+				"report_time": "06-15-2016",
+				"level": "Normal",
+				"description": "Issue solved",
+				"status": "closed"
+			},
+			{
+				"code": "EC5056",
+				"report_time": "06-16-2016",
+				"level": "low",
+				"description": "Database write failure",
+				"status": "open"
+			}
+		],
+		"Customers_Experience": [
+			{
+				"Flow_Rate": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16",
+						"Average_Flow_Rate": "11"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17",
+						"Average_Flow_Rate": "7"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18",
+						"Average_Flow_Rate": "13"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-19",
+						"Average_Flow_Rate": "14"
+					}
+				],
+				"Over_Run": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16",
+						"preset_over_runs": "2"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17",
+						"preset_over_runs": "5"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18",
+						"preset_over_runs": "3"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-19",
+						"preset_over_runs": "4"
+					}
+				],
+				"Under_Run": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16",
+						"preset_under_runs": "21"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17",
+						"preset_under_runs": "20"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18",
+						"preset_under_runs": "18"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-19",
+						"preset_under_runs": "16"
+					}
+				],
+				"Meter_Value": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16",
+						"meter_calibration": "1003.6000"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17",
+						"meter_calibration": "1003.6000"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18",
+						"meter_calibration": "1003.6000"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-19",
+						"meter_calibration": "1003.6000"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-20",
+						"meter_calibration": "1003.6000"
+					}
+				]
+			}
+		],
+		"Price_Volume": [
+			{
+				"Grade1": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16-2016",
+						"grade": "1",
+						"price": "33.33",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17-2016",
+						"grade": "1",
+						"price": "33.33",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18-2016",
+						"grade": "1",
+						"price": "33.33",
+						"uncompensated_volume": "1449"
+					}
+				],
+				"Grade2": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16-2016",
+						"grade": "2",
+						"price": "25.3",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17-2016",
+						"grade": "2",
+						"price": "25.3",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18-2016",
+						"grade": "2",
+						"price": "25.3",
+						"uncompensated_volume": "1449"
+					}
+				],
+				"Grade3": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16-2016",
+						"grade": "3",
+						"price": "36.21",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17-2016",
+						"grade": "3",
+						"price": "36.21",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18-2016",
+						"grade": "3",
+						"price": "36.21",
+						"uncompensated_volume": "1449"
+					}
+				],
+				"Grade4": [
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-16-2016",
+						"grade": "4",
+						"price": "354.3",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-17-2016",
+						"grade": "4",
+						"price": "354.3",
+						"uncompensated_volume": "1449"
+					},
+					{
+						"device_id": "352753090531706",
+						"report_time": "06-18-2016",
+						"grade": "4",
+						"price": "354.3",
+						"uncompensated_volume": "1449"
+					}
+				]
+			}
+		],
+		"Reboot": [
+			{
+				"Date": "06-16-2018",
+				"Time": "09:45 PM",
+				"User": "kishore",
+				"Notes": "Reboot completed"
+			},
+			{
+				"Date": "06-17-2018",
+				"Time": "09:43 PM",
+				"User": "kishore",
+				"Notes": "Reboot completed"
+			},
+			{
+				"Date": "06-18-2018",
+				"Time": "09:47 PM",
+				"User": "kishore",
+				"Notes": "Reboot completed"
+			}
+		],
+		"Security": [
+			{
+				"Door_Alarms": [
+					{
+						"Name": "Door Alarm",
+						"Date": "06-16-2018",
+						"Time": "09:45 PM",
+						"User": "kishore",
+						"Notes": "Door opened"
+					},
+					{
+						"Name": "Door Alarm",
+						"Date": "06-17-2018",
+						"Time": "09:43 PM",
+						"User": "kishore",
+						"Notes": "Door opened"
+					},
+					{
+						"Name": "Door Alarm",
+						"Date": "06-18-2018",
+						"Time": "09:47 PM",
+						"User": "kishore",
+						"Notes": "Door opened"
+					}
+				],
+				"Stand_Alone_Alarm": [
+					{
+						"Name": "Stand Alone Alarm",
+						"Count": "9",
+						"Date": "06-16-2018",
+						"Time": "09:45 PM",
+						"User": "kishore",
+						"Notes": "Alarm triggered on stand alone count"
+					},
+					{
+						"Name": "Stand Alone Alarm",
+						"Count": "9",
+						"Date": "06-17-2018",
+						"Time": "09:43 PM",
+						"User": "kishore",
+						"Notes": "Alarm triggered on stand alone count"
+					},
+					{
+						"Name": "Stand Alone Alarm",
+						"Count": "9",
+						"Date": "06-18-2018",
+						"Time": "09:47 PM",
+						"User": "kishore",
+						"Notes": "Alarm triggered on stand alone count"
+					}
+				]
+			}
+		],
+		"AssetData": [
+			{
+				"device_id": "352753090531706",
+				"report_time": "06-16-2018",
+				"pump_model": "E500 pump Lon Node Version",
+				"app_software_version": "P03040 (03.040p)",
+				"boot_version": "1",
+				"door_node_a": "E500 pump Lon Node Version",
+				"pulser_type": "1",
+				"valve_type": "1"
+			}
+		]
+	}
+	
+]

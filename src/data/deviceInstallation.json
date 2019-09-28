@@ -1,0 +1,31 @@
+[{
+		"Site_id": "1001",
+		"site_name": "Naperville",
+		"device_id": "352753090531706",
+		"pump_number": "255"
+	}, 
+	{
+		"Site_id": "1002",
+		"site_name": "Clarkson",
+		"device_id": "352753090531706",
+		"pump_number": "0"
+	},
+	{
+		"Site_id": "1003",
+		"site_name": "East Avenue",
+		"device_id": "352753090531706",
+		"pump_number": "22"
+	},
+	{
+		"Site_id": "1004",
+		"site_name": "Boling brook",
+		"device_id": "352753090531706",
+		"pump_number": "255"
+	},
+	{
+		"Site_id": "1005",
+		"site_name": "Clarkson",
+		"device_id": "352753090531706",
+		"pump_number": "22"
+	}
+]

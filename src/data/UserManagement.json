@@ -1,0 +1,20 @@
+[
+	{
+		"ID": 200,
+		"Name": "Sumanth",
+		"Email": "sumanth@gmail.com",
+		"Phone": "001 125-126-1478",
+		"Client_Name": "SumanthReddy",
+		"Region": "Boling brook",
+		"Role": "Admin"
+	},
+	{
+		"ID": 201,
+		"Name": "Sateesh",
+		"Email": "sateesh@gmail.com",
+		"Phone": "001 125-126-1478",
+		"Client_Name": "Sateesh",
+		"Region": "New York",
+		"Role": "Business Manager"
+	}
+]

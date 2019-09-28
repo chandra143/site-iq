@@ -1,0 +1,63 @@
+[
+    {
+        "Meter":"Meter 1",
+        "PulserNumber":"1",
+        "PulserType":"Quadrature Pulser",
+        "MeterCalibration":"1047.1999 pulsesGallon",
+        "UncompensatedVolumeTotal":"0045356248",
+        "UncompensatedVolume":"0",
+        "RawPulses":"0",
+        "RawErrors":"0"
+    },
+    {
+        "Meter":"Meter 2",
+        "PulserNumber":"5",
+        "PulserType":"Quadrature Pulser",
+        "MeterCalibration":"1047.1999 pulsesGallon",
+        "UncompensatedVolumeTotal":"0077297898",
+        "UncompensatedVolume":"1709",
+        "RawPulses":"1709",
+        "RawErrors":"0"
+    },
+    {
+        "Meter":"Meter 3",
+        "PulserNumber":"7",
+        "PulserType":"Quadrature Pulser",
+        "MeterCalibration":"1047.1999 pulsesGallon",
+        "UncompensatedVolumeTotal":"0079782800",
+        "UncompensatedVolume":"12501",
+        "RawPulses":"13091",
+        "RawErrors":"0"
+    },
+    {
+        "Meter":"Meter 4",
+        "PulserNumber":"3",
+        "PulserType":"Quadrature Pulser",
+        "MeterCalibration":"1047.1999 pulsesGallon",
+        "UncompensatedVolumeTotal":"0024729312",
+        "UncompensatedVolume":"0",
+        "RawPulses":"0",
+        "RawErrors":"0"
+    },
+    {
+        "Meter":"Meter 5",
+        "PulserNumber":"3",
+        "PulserType":"Quadrature Pulser",
+        "MeterCalibration":"1047.1999 pulsesGallon",
+        "UncompensatedVolumeTotal":"0009980782",
+        "UncompensatedVolume":"12659",
+        "RawPulses":"13256",
+        "RawErrors":"0"
+    },
+    {
+        "Meter":"Meter 6",
+        "PulserNumber":"6",
+        "PulserType":"Quadrature Pulser",
+        "MeterCalibration":"1047.1999 pulsesGallon",
+        "UncompensatedVolumeTotal":"0009246030",
+        "UncompensatedVolume":"921",
+        "RawPulses":"964",
+        "RawErrors":"0"
+    }
+    
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "site": "Site-1-Dunseith",
+    "add": "Dunseith, North Dakota, North Dakota, Rolette, code:58329",
+    "lat": 48.8130569,
+    "lng": -100.0609678,
+    "status": "warning"
+  },
+  {
+    "site": "Site-2-Mylo",
+    "add": "Mylo, North Dakota, North Dakota, Rolette, code:58353",
+    "lat": 48.6352785,
+    "lng": -99.6187555,
+    "status": "normal"
+  },
+  {
+    "site": "Site-3-Antler",
+    "add": "Antler, North Dakota, North Dakota, Bottineau, code:58711",
+    "lat": 48.9708532,
+    "lng": -101.2823803,
+    "status": "warning"
+  },
+  {
+    "site": "Site-4-Bottineau",
+    "add": "Bottineau, North Dakota, North Dakota, Bottineau, code:58318",
+    "lat": 48.8272301,
+    "lng": -100.4456984,
+    "status": "normal"
+  },
+  {
+    "site": "Site-5-Gardena",
+    "add": "Gardena, North Dakota, North Dakota, Bottineau, code:58318 58748",
+    "lat": 48.700837,
+    "lng": -100.4976393,
+    "status": "error"
+  },
+  {
+    "site": "Site-6-Kramer",
+    "add": "Kramer, North Dakota, North Dakota, Bottineau, code:58748",
+    "lat": 48.690565,
+    "lng": -100.7068093,
+    "status": "error"
+  },
+  {
+    "site": "Site-7-Landa",
+    "add": "Landa, North Dakota, North Dakota, Bottineau, code:58783",
+    "lat": 48.8966855,
+    "lng": -100.9118208,
+    "status": "error"
+  },
+  {
+    "site": "Site-8-Lansford",
+    "add": "Lansford, North Dakota, North Dakota, Bottineau, code:58750",
+    "lat": 48.628909,
+    "lng": -101.3757158,
+    "status": "normal"
+  },
+  {
+    "site": "Site-9-Maxbass",
+    "add": "Maxbass, North Dakota, North Dakota, Bottineau, code:58760",
+    "lat": 48.7216878,
+    "lng": -101.1415464,
+    "status": "normal"
+  },
+  {
+    "site": "Site-10-Newburg",
+    "add": "Newburg, North Dakota, North Dakota, Bottineau, code:58762",
+    "lat": 48.7150177,
+    "lng": -100.9129293,
+    "status": "warning"
+  },
+  {
+    "site": "Site-11-Overly",
+    "add": "Overly, North Dakota, North Dakota, Bottineau, code:58384",
+    "lat": 48.6819437,
+    "lng": -100.150136,
+    "status": "warning"
+  },
+  {
+    "site": "Site-12-Canton City",
+    "add": "Canton City, North Dakota, North Dakota, Pembina, code:58241",
+    "lat": 48.6878745,
+    "lng": -97.6676696,
+    "status": "warning"
+  },
+  {
+    "site": "Site-13-Crystal",
+    "add": "Crystal, North Dakota, North Dakota, Pembina, code:58222",
+    "lat": 48.5969371,
+    "lng": -97.6695334,
+    "status": "normal"
+  },
+  {
+    "site": "Site-14-Drayton",
+    "add": "Drayton, North Dakota, North Dakota, Pembina, code:58225",
+    "lat": 48.5710958,
+    "lng": -97.1778485,
+    "status": "warning"
+  },
+  {
+    "site": "Site-15-Hamilton",
+    "add": "Hamilton, North Dakota, North Dakota, Pembina, code:58238",
+    "lat": 48.8086008,
+    "lng": -97.4528587,
+    "status": "error"
+  },
+  {
+    "site": "Site-16-Mountain",
+    "add": "Mountain, North Dakota, North Dakota, Pembina, code:58262",
+    "lat": 48.6877719,
+    "lng": -97.8650966,
+    "status": "warning"
+  },
+  {
+    "site": "Site-17-Neche",
+    "add": "Neche, North Dakota, North Dakota, Pembina, code:58265",
+    "lat": 48.9861027,
+    "lng": -97.5548,
+    "status": "warning"
+  },
+  {
+    "site": "Site-18-Pembina",
+    "add": "Pembina, North Dakota, North Dakota, Pembina, code:58271",
+    "lat": 48.9663766,
+    "lng": -97.2436761,
+    "status": "warning"
+  },
+  {
+    "site": "Site-19-Cando",
+    "add": "Cando, North Dakota, North Dakota, Towner, code:58324",
+    "lat": 48.4866682,
+    "lng": -99.2098593,
+    "status": "warning"
+  },
+  {
+    "site": "Site-20-Egeland",
+    "add": "Egeland, North Dakota, North Dakota, Towner, code:58331",
+    "lat": 48.6263945,
+    "lng": -99.0973586,
+    "status": "normal"
+  },
+  {
+    "site": "Site-21-Hansboro",
+    "add": "Hansboro, North Dakota, North Dakota, Towner, code:58365 58339",
+    "lat": 48.9500078,
+    "lng": -99.3829145,
+    "status": "normal"
+  },
+  {
+    "site": "Site-22-Perth",
+    "add": "Perth, North Dakota, North Dakota, Towner, code:58363",
+    "lat": 48.7163932,
+    "lng": -99.4579209,
+    "status": "error"
+  },
+  {
+    "site": "Site-23-Rocklake",
+    "add": "Rocklake, North Dakota, North Dakota, Towner, code:58365",
+    "lat": 48.7901657,
+    "lng": -99.2460844,
+    "status": "normal"
+  },
+  {
+    "site": "Site-24-Alsen",
+    "add": "Alsen, North Dakota, North Dakota, Cavalier, code:58311 58352 58338",
+    "lat": 48.6305626,
+    "lng": -98.7048488,
+    "status": "error"
+  },
+  {
+    "site": "Site-25-Calio",
+    "add": "Calio, North Dakota, North Dakota, Cavalier, code:58352",
+    "lat": 48.6311182,
+    "lng": -98.9329109,
+    "status": "normal"
+  },
+  {
+    "site": "Site-26-Calvin",
+    "add": "Calvin, North Dakota, North Dakota, Cavalier, code:58323",
+    "lat": 48.8525068,
+    "lng": -98.9354078,
+    "status": "normal"
+  },
+  {
+    "site": "Site-27-Hannah",
+    "add": "Hannah, North Dakota, North Dakota, Cavalier, code:58239",
+    "lat": 48.9716708,
+    "lng": -98.6917884,
+    "status": "normal"
+  },
+  {
+    "site": "Site-28-Langdon",
+    "add": "Langdon, North Dakota, North Dakota, Cavalier, code:58249",
+    "lat": 48.7600007,
+    "lng": -98.3681728,
+    "status": "warning"
+  },
+  {
+    "site": "Site-29-Loma",
+    "add": "Loma, North Dakota, North Dakota, Cavalier, code:58311",
+    "lat": 48.6302832,
+    "lng": -98.5328984,
+    "status": "warning"
+  },
+  {
+    "site": "Site-30-Milton",
+    "add": "Milton, North Dakota, North Dakota, Cavalier, code:58260",
+    "lat": 48.6263838,
+    "lng": -98.0426017,
+    "status": "error"
+  },
+  {
+    "site": "Site-31-Munich",
+    "add": "Munich, North Dakota, North Dakota, Cavalier, code:58352",
+    "lat": 48.669174,
+    "lng": -98.8326307,
+    "status": "error"
+  },
+  {
+    "site": "Site-32-Nekoma",
+    "add": "Nekoma, North Dakota, North Dakota, Cavalier, code:58355",
+    "lat": 48.5772245,
+    "lng": -98.370392,
+    "status": "error"
+  },
+  {
+    "site": "Site-33-Osnabrock",
+    "add": "Osnabrock, North Dakota, North Dakota, Cavalier, code:58269",
+    "lat": 48.6688857,
+    "lng": -98.1512186,
+    "status": "warning"
+  },
+  {
+    "site": "Site-34-Ambrose",
+    "add": "Ambrose, North Dakota, North Dakota, Divide, code:58833",
+    "lat": 48.9539222,
+    "lng": -103.4826921,
+    "status": "warning"
+  },
+  {
+    "site": "Site-35-Crosby",
+    "add": "Crosby, North Dakota, North Dakota, Divide, code:58730",
+    "lat": 48.9141998,
+    "lng": -103.2949095,
+    "status": "warning"
+  },
+  {
+    "site": "Site-36-Fortuna",
+    "add": "Fortuna, North Dakota, North Dakota, Divide, code:58844",
+    "lat": 48.9100315,
+    "lng": -103.7793697,
+    "status": "error"
+  },
+  {
+    "site": "Site-37-Noonan",
+    "add": "Noonan, North Dakota, North Dakota, Divide, code:58765",
+    "lat": 48.8889194,
+    "lng": -103.0087936,
+    "status": "warning"
+  },
+  {
+    "site": "Site-38-Bowbells",
+    "add": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+    "lat": 48.8030833,
+    "lng": -102.2460008,
+    "status": "warning"
+  },
+  {
+    "site": "Site-39-Flaxton",
+    "add": "Flaxton, North Dakota, North Dakota, Burke, code:58737",
+    "lat": 48.8986389,
+    "lng": -102.3923913,
+    "status": "error"
+  },
+  {
+    "site": "Site-40-Lignite",
+    "add": "Lignite, North Dakota, North Dakota, Burke, code:58752",
+    "lat": 48.8775322,
+    "lng": -102.5629488,
+    "status": "warning"
+  },
+  {
+    "site": "Site-41-Portal",
+    "add": "Portal, North Dakota, North Dakota, Burke, code:58772 58737",
+    "lat": 48.9958637,
+    "lng": -102.5496127,
+    "status": "warning"
+  },
+  {
+    "site": "Site-42-Powers Lake",
+    "add": "Powers Lake, North Dakota, North Dakota, Burke, code:58773",
+    "lat": 48.5628042,
+    "lng": -102.6479573,
+    "status": "warning"
+  },
+  {
+    "site": "Site-43-Glenburn",
+    "add": "Glenburn, North Dakota, North Dakota, Renville, code:58740",
+    "lat": 48.5130744,
+    "lng": -101.2207138,
+    "status": "warning"
+  },
+  {
+    "site": "Site-44-Grano",
+    "add": "Grano, North Dakota, North Dakota, Renville, code:58750",
+    "lat": 48.6150203,
+    "lng": -101.5865506,
+    "status": "normal"
+  },
+  {
+    "site": "Site-45-Loraine",
+    "add": "Loraine, North Dakota, North Dakota, Renville, code:58761",
+    "lat": 48.8655766,
+    "lng": -101.5679389,
+    "status": "error"
+  },
+  {
+    "site": "Site-46-Mohall",
+    "add": "Mohall, North Dakota, North Dakota, Renville, code:58761",
+    "lat": 48.7633556,
+    "lng": -101.5132169,
+    "status": "warning"
+  },
+  {
+    "site": "Site-47-Burlington",
+    "add": "Burlington, North Dakota, North Dakota, Ward, code:58722",
+    "lat": 48.2752881,
+    "lng": -101.4287751,
+    "status": "error"
+  },
+  {
+    "site": "Site-48-Carpio",
+    "add": "Carpio, North Dakota, North Dakota, Ward, code:58725",
+    "lat": 48.4425171,
+    "lng": -101.7146064,
+    "status": "error"
+  },
+  {
+    "site": "Site-49-Des Lacs",
+    "add": "Des Lacs, North Dakota, North Dakota, Ward, code:58733",
+    "lat": 48.257788,
+    "lng": -101.5634984,
+    "status": "error"
+  },
+  {
+    "site": "Site-50-Donnybrook",
+    "add": "Donnybrook, North Dakota, North Dakota, Ward, code:58734",
+    "lat": 48.509465,
+    "lng": -101.8851618,
+    "status": "normal"
+  }
+]

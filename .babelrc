@@ -1,0 +1,19 @@
+{
+    "presets": [
+        "babel-preset-env",
+        "react",
+        "babel-preset-es2015",
+        "babel-preset-stage-0"
+    ],
+    "plugins": [
+        ["transform-runtime", {
+            "regenerator": true
+            }],
+            "transform-decorators-legacy",
+            "transform-decorators",
+            "syntax-dynamic-import",
+            "transform-async-to-generator"
+    ]
+}
+
+

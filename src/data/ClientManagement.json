@@ -1,0 +1,116 @@
+[
+	{
+		"ID": 1,
+		"Name": "Sumanth",
+		"Type": "Distributer/Service Co",
+		"HeadQuarter": [
+			{
+				"ID": "1",
+				"Name": "US",
+				"Region": [
+					{
+						"ID": "10",
+						"Name": "Illinois",
+						"Branch": [
+							{
+								"ID": "101",
+								"Name": "Chicago",
+								"Site": [
+									{
+										"ID": "1001",
+										"Name": "Naperville"
+									},
+									{
+										"ID": "1004",
+										"Name": "Boling brook"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		],
+		"Email": "sumanth@gmail.com",
+		"Address": "LIG-516,Malasiyan TownShip,Hyd",
+		"PrimaryContact": "Sumanth",
+		"Phone": "001 125-126-1478"
+	},
+	{
+		"ID": 2,
+		"Name": "Sateesh",
+		"Type": "End User",
+		"HeadQuarter": [
+			{
+				"ID": "1",
+				"Name": "US",
+				"Region": [
+					{
+						"ID": "11",
+						"Name": "New York",
+						"Branch": [
+							{
+								"ID": "102",
+								"Name": "Rochester",
+								"Site": [
+									{
+										"ID": "1002",
+										"Name": "Clarkson"
+									},
+									{
+										"ID": "1003",
+										"Name": "East Avenue"
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": "11",
+						"Name": "New York",
+						"Branch": [
+							{
+								"ID": "102",
+								"Name": "Rochester",
+								"Site": [
+									{
+										"ID": "1002",
+										"Name": "Clarkson"
+									},
+									{
+										"ID": "1003",
+										"Name": "East Avenue"
+									}
+								]
+							}
+						]
+					},
+					{
+						"ID": "11",
+						"Name": "New York",
+						"Branch": [
+							{
+								"ID": "102",
+								"Name": "Rochester",
+								"Site": [
+									{
+										"ID": "1002",
+										"Name": "Clarkson"
+									},
+									{
+										"ID": "1003",
+										"Name": "East Avenue"
+									}
+								]
+							}
+						]
+					}
+				]
+			}
+		],
+		"Email": "sumanth@gmail.com",
+		"Address": "LIG-516,Malasiyan TownShip,Hyd",
+		"PrimaryContact": "Sumanth",
+		"Phone": "001 125-126-1478"
+	}
+]

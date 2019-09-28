@@ -1,0 +1,12 @@
+{
+    "Version": "P02980",
+    "UnitType": "1",
+    "UnitofMeasure": "1",
+    "PresetType": "1",
+    "VaporvacOption": "true",
+    "PushToStartOption": "false",
+    "PushToStopOption": "false",
+    "ATCOption": "false",
+    "Totalizer": "false",
+    "NozzleActivated": "false"
+}

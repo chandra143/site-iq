@@ -1,0 +1,20 @@
+[
+  {
+    "fullname": "Liam Martin",
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin"
+  },
+  {
+    "fullname": "William Stark",
+    "username": "manager",
+    "password": "manager123",
+    "role": "site-manager"
+  },
+  {
+    "fullname": "Mason Doe",
+    "username": "tech",
+    "password": "tech123",
+    "role": "technician"
+  }
+]

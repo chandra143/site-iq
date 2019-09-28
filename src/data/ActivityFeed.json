@@ -1,0 +1,62 @@
+[
+  {
+    "time": 1519063256841,
+    "level": "MAJOR",
+    "message": "Message 1",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "MAJOR",
+    "message": "Message 2",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "CRITICAL",
+    "message": "Message 1",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "MAJOR",
+    "message": "Message 3",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "CRITICAL",
+    "message": "Message 2",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "CRITICAL",
+    "message": "Message 6",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "MAJOR",
+    "message": "Message 7",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "CRITICAL",
+    "message": "Message 8",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "MAJOR",
+    "message": "Message 9",
+    "errorCode": "EC5616"
+  },
+  {
+    "time": 1519063256841,
+    "level": "CRITICAL",
+    "message": "Message 10",
+    "errorCode": "EC5616"
+  }
+]

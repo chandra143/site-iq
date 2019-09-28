@@ -1,0 +1,197 @@
+[{
+		"Dispenser1/2": [{
+		    "ID":"352753090531706",
+			"Recent Alerts": [{
+					"ID": "1",
+					"Name": "Alert1",
+					"Description": "This is about Recent Alert1",
+					"TIme": "09/17/2018"
+				},
+				{
+					"ID": "2",
+					"Name": "Alert2",
+					"Description": "This is about Recent Alert2",
+					"TIme": "09/18/2018"
+				},
+				{
+					"ID": "3",
+					"Name": "Alert3",
+					"Description": "This is about Recent Alert3",
+					"TIme": "09/19/2018"
+				}
+			],
+			"Recent Critical Errors": [{
+					"Name": "Major",
+					"Error Code": "EC0024",
+					"Description": "Volume unit type is not set",
+					"Status": "In Progress"
+				},
+				{
+					"Name": "Major",
+					"Error Code": "EC5616",
+					"Description": "Security Switch is open",
+					"Status": "Fixed"
+				},
+				{
+					"Name": "Major",
+					"Error Code": "EC5616",
+					"Description": "Security Switch is open",
+					"Status": "Fixed"
+				}
+			],
+			"Flow Rate": [],
+			"Volume": [{
+				"Device id": "352753090531706",
+				"Volume": "1449"
+			}],
+			"Recent Door Alarm": [{
+					"ID": "1",
+					"Alarm Name": "Alarm1",
+					"Description": "This is about Recent Alarm1",
+					"Severity": "Critical"
+				},
+				{
+					"ID": "2",
+					"Alarm Name": "Alarm2",
+					"Description": "This is about Recent Alarm2",
+					"Severity": "Warning"
+				},
+				{
+					"ID": "3",
+					"Alarm Name": "Alarm3",
+					"Description": "This is about Recent Alarm3",
+					"Severity": "Normal"
+				}
+			],
+			"Recent Stand Alone": [{
+					"ID": "352753090531706",
+					"Name": "PerformanceA Stand Alone Count",
+					"Date": "09/17/2018",
+					"Count": "18"
+				},
+				{
+					"ID": "352753090531706",
+					"Name": "PerformanceA Stand Alone Count",
+					"Date": "09/18/2018",
+					"Count": "18"
+				},
+				{
+					"ID": "352753090531706",
+					"Name": "PerformanceA Stand Alone Count",
+					"Date": "09/19/2018",
+					"Count": "18"
+				}
+			],
+			"Over Run Count": [{
+				"ID": "352753090531706",
+				"Name": "PerformanceA Over Run Count",
+				"Date": "09/18/2018",
+				"Count": "0"
+			}],
+			"Under Run Count": [{
+				"ID": "352753090531706",
+				"Name": "PerformanceA Under Run Count",
+				"Date": "09/18/2018",
+				"Count": "10"
+			}]
+		}]
+	},
+	{
+		"Dispenser3/4": [{
+			"ID":"352753090531707",
+			"Recent Alerts": [{
+					"ID": "1",
+					"Name": "Alert1",
+					"Description": "This is about Recent Alert1",
+					"TIme": "09/17/2018"
+				},
+				{
+					"ID": "2",
+					"Name": "Alert2",
+					"Description": "This is about Recent Alert2",
+					"TIme": "09/18/2018"
+				},
+				{
+					"ID": "3",
+					"Name": "Alert3",
+					"Description": "This is about Recent Alert3",
+					"TIme": "09/19/2018"
+				}
+			],
+			"Recent Critical Errors": [{
+					"Name": "Major",
+					"Error Code": "EC0024",
+					"Description": "Volume unit type is not set",
+					"Status": "In Progress"
+				},
+				{
+					"Name": "Major",
+					"Error Code": "EC5616",
+					"Description": "Security Switch is open",
+					"Status": "Fixed"
+				},
+				{
+					"Name": "Major",
+					"Error Code": "EC5616",
+					"Description": "Security Switch is open",
+					"Status": "Fixed"
+				}
+			],
+			"Flow Rate": [],
+			"Volume": [{
+				"Device id": "352753090531706",
+				"Volume": "1449"
+			}],
+			"Recent Door Alarm": [{
+					"ID": "1",
+					"Alarm Name": "Alarm1",
+					"Description": "This is about Recent Alarm1",
+					"Severity": "Critical"
+				},
+				{
+					"ID": "2",
+					"Alarm Name": "Alarm2",
+					"Description": "This is about Recent Alarm2",
+					"Severity": "Warning"
+				},
+				{
+					"ID": "3",
+					"Alarm Name": "Alarm3",
+					"Description": "This is about Recent Alarm3",
+					"Severity": "Normal"
+				}
+			],
+			"Recent Stand Alone": [{
+					"ID": "352753090531706",
+					"Name": "PerformanceA Stand Alone Count",
+					"Date": "09/17/2018",
+					"Count": "18"
+				},
+				{
+					"ID": "352753090531706",
+					"Name": "PerformanceA Stand Alone Count",
+					"Date": "09/18/2018",
+					"Count": "18"
+				},
+				{
+					"ID": "352753090531706",
+					"Name": "PerformanceA Stand Alone Count",
+					"Date": "09/19/2018",
+					"Count": "18"
+				}
+			],
+			"Over Run Count": [{
+				"ID": "352753090531706",
+				"Name": "PerformanceA Over Run Count",
+				"Date": "09/18/2018",
+				"Count": "0"
+			}],
+			"Under Run Count": [{
+				"ID": "352753090531706",
+				"Name": "PerformanceA Under Run Count",
+				"Date": "09/18/2018",
+				"Count": "10"
+			}]
+		}]
+	}
+]

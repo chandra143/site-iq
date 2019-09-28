@@ -1,0 +1,42 @@
+[
+    {
+        "SNO":"1",
+        "Date":"08-24-2017",
+        "Time":"10:12:30",
+        "Site":"Shell_30121",
+        "MACAddress":"0013A200415B9EDF",
+        "PumpID":"1",
+        "Door":"Side-A bottom door",
+        "Description":"Unauthorized door open"
+    },
+    {
+        "SNO":"2",
+        "Date":"08-24-2017",
+        "Time":"09:12:30",
+        "Site":"Shell_30121",
+        "MACAddress":"0013A200415B9EDF",
+        "PumpID":"1",
+        "Door":"Side-A top door",
+        "Description":"Door closed"
+    },
+    {
+        "SNO":"3",
+        "Date":"08-23-2017",
+        "Time":"12:22:20",
+        "Site":"Shell_30121",
+        "MACAddress":"0013A200415B9EDF",
+        "PumpID":"1",
+        "Door":"Side-B top door",
+        "Description":"Unauthorized door open"
+    },
+    {
+        "SNO":"4",
+        "Date":"08-22-2017",
+        "Time":"11:22:20",
+        "Site":"Shell_30121",
+        "MACAddress":"0013A200415B9EDF",
+        "PumpID":"1",
+        "Door":"Side-B top door",
+        "Description":"Unauthorized door open"
+    }
+]

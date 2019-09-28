@@ -1,0 +1,21 @@
+[{
+  "technicianName": "Mason Doe",
+  "technicianAdd": "Dunseith, North Dakota, North Dakota, Rolette, code:58329",
+  "technicianEmail": "mason.doe@test.com",
+  "technicianNumber": "555 555 5555"
+},{
+  "technicianName": "Steve Rogers",
+  "technicianAdd": "Bowbells, North Dakota, North Dakota, Burke, code:58721",
+  "technicianEmail": "steve.rogers@test.com",
+  "technicianNumber": "666 666 6666"
+},{
+  "technicianName": "Bucky Barnes",
+  "technicianAdd": "Carpio, North Dakota, North Dakota, Ward, code:58725",
+  "technicianEmail": "bucky.barnes@test.com",
+  "technicianNumber": "777 777 7777"
+},{
+  "technicianName": "Scott Lang",
+  "technicianAdd": "Des Lacs, North Dakota, North Dakota, Ward, code:58733",
+  "technicianEmail": "scott.lang@test.com",
+  "technicianNumber": "888 888 8888"
+}]
