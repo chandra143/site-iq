@@ -1,7 +1,7 @@
 const express = require('express');
 const path = require('path');
 
-const app = express();
+const app = express(); 
 if (process.env.NODE_ENV !== 'production') {
     const webpackMiddleware = require('webpack-dev-middleware');
     const webpack = require('webpack');
