@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const key = "bryjUflFDj8rWTA23DE2d9cGZVJi8jVf2jdTMiMk";
+// const key = "bryjUflFDj8rWTA23DE2d9cGZVJi8jVf2jdTMiMk";
 class AxiosService {
 xhr(request= {
     url,
@@ -12,12 +12,18 @@ xhr(request= {
     without_auth_headers
   }) {
     let headers = {};
-    if(key){
-      headers = {'Content-Type': 'application/json', 'x-api-key': key};
+    let params = {};
+    if(request.key){
+      headers = new Headers({'Content-Type': 'application/json', 'x-api-key': request.key});
+    }else{
+      headers = new Headers({'Content-Type': 'application/json'});
     }
-    // let params = ;
+    if(request.params){
+      params = request.params;
+    };
+    
     let service;
-    const options = {headers};
+    const options = {headers, params};
     if (request.method === 'P') {
       service = axios.post(request.url, request.data, {...options});
     }
